@@ -1,1 +1,1 @@
-module.exports = require('./src/jsgraphs');
+export * from './src/jsgraphs';
