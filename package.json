@@ -46,10 +46,13 @@
   ],
   "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
     "chai": "^3.5.0",
     "coveralls": "^2.13.1",
     "esm": "^3.2.25",
     "grunt": "^1.0.1",
+    "grunt-babel": "^8.0.0",
     "grunt-contrib-uglify": "^3.0.0",
     "grunt-eslint": "^19.0.0",
     "grunt-mocha-test": "^0.13.2",
